@@ -1,0 +1,23 @@
+{
+  "name": "poc-ds-lib-1",
+  "version": "1.0.3",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "author": "",
+  "description": "",
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  },
+  "peerDependencies": {
+    "react": ">=17",
+    "react-native": ">=0.64"
+  }
+}
