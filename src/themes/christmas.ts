@@ -1,6 +1,6 @@
 import { Theme } from '../types';
 
-export const theme_christmas: Theme = {
+export const christmas: Theme = {
   colors: {
     background: '#000000',
     text: '#ffffff',

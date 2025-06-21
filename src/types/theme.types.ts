@@ -23,3 +23,5 @@ export interface Theme {
   spaces: Space;
   corner_radius: CornerRadius;
 }
+
+export type ThemeName = 'light' | 'christmas';

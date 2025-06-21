@@ -1,6 +1,9 @@
 {
-  "name": "poc-ds-lib-1",
-  "version": "1.0.3",
+  "name": "@rogerespinoza/k-poc-ds",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "version": "1.0.0",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
@@ -14,6 +17,7 @@
   "author": "",
   "description": "",
   "devDependencies": {
+    "@types/react": "^19.1.8",
     "typescript": "^5.8.3"
   },
   "peerDependencies": {

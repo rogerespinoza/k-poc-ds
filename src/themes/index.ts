@@ -1,7 +1,7 @@
-import { theme_light } from './theme-light';
-import { theme_christmas } from './theme-christmas';
+import { light } from './light';
+import { christmas } from './christmas';
 
 export default {
-  light: theme_light,
-  christmas: theme_christmas,
+  light,
+  christmas,
 };

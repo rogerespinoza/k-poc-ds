@@ -1,6 +1,6 @@
 import { Theme } from '../types';
 
-export const theme_light: Theme = {
+export const light: Theme = {
   colors: {
     background: '#ffffff',
     text: '#000000',
