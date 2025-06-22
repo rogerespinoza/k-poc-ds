@@ -4,6 +4,8 @@
     "module": "ESNext",
     "declaration": true,
     "jsx": "react",  
+    "emitDeclarationOnly": false,         // only false if you want both `.js` and `.d.ts`
+    "declarationDir": "./dist/types",
     "outDir": "dist",
     "strict": true,
     "esModuleInterop": true,

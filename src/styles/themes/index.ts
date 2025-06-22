@@ -1,7 +1,7 @@
 import { light } from './light';
 import { christmas } from './christmas';
 
-export default {
+export const themes =  {
   light,
   christmas,
 };
